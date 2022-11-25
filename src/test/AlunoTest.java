@@ -4,9 +4,7 @@ import org.fpij.jitakyoei.model.beans.Rg;
 import org.fpij.jitakyoei.model.beans.Endereco;
 
 import static org.assertj.core.api.Assertions.assertThat;
-
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class AlunoTest{
